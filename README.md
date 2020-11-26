@@ -2,7 +2,7 @@
 A simple dice app game. Used to develop comfort with TDD
 
 ---
-##User Stories"
+## User Stories:
 
 ```
 As a board game player,
